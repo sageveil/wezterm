@@ -1,0 +1,69 @@
+[metadata]
+name = "sageveil"
+author = "sageveil"
+origin_url = "https://github.com/sageveil/sageveil"
+
+[colors]
+foreground = "#A8AFA6"
+background = "#101411"
+
+cursor_bg = "#A8AFA6"
+cursor_fg = "#101411"
+cursor_border = "#A8AFA6"
+
+selection_fg = "#A8AFA6"
+selection_bg = "#33423A"
+
+scrollbar_thumb = "#4E504C"
+split = "#4E504C"
+
+ansi = [
+  "#101411",
+  "#9A6B6B",
+  "#7E9270",
+  "#AC9C66",
+  "#8A8294",
+  "#A37F90",
+  "#6F9476",
+  "#A8AFA6",
+]
+
+brights = [
+  "#26322A",
+  "#B08585",
+  "#95A888",
+  "#C6B67E",
+  "#A39DAC",
+  "#BC9AAC",
+  "#88AB90",
+  "#c3cdc0",
+]
+
+[colors.tab_bar]
+background = "#1D2320"
+
+[colors.tab_bar.active_tab]
+bg_color = "#101411"
+fg_color = "#7E9270"
+intensity = "Normal"
+underline = "None"
+italic = false
+strikethrough = false
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#1D2320"
+fg_color = "#8C918C"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#1F2624"
+fg_color = "#A8AFA6"
+italic = false
+
+[colors.tab_bar.new_tab]
+bg_color = "#1D2320"
+fg_color = "#8C918C"
+
+[colors.tab_bar.new_tab_hover]
+bg_color = "#1F2624"
+fg_color = "#A8AFA6"
+italic = false
