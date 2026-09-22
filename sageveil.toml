@@ -5,65 +5,65 @@ origin_url = "https://github.com/sageveil/sageveil"
 
 [colors]
 foreground = "#A8AFA6"
-background = "#101310"
+background = "#0F120F"
 
 cursor_bg = "#A8AFA6"
-cursor_fg = "#101310"
+cursor_fg = "#0F120F"
 cursor_border = "#A8AFA6"
 
 selection_fg = "#A8AFA6"
-selection_bg = "#241d21"
+selection_bg = "#262E27"
 
 scrollbar_thumb = "#4E504C"
 split = "#4E504C"
 
 ansi = [
-  "#101310",
+  "#0F120F",
   "#9A6B6B",
-  "#959C70",
-  "#A69966",
+  "#90976B",
+  "#A09360",
   "#8A8493",
   "#876f7f",
-  "#7F9476",
+  "#7C9173",
   "#A8AFA6",
 ]
 
 brights = [
   "#262F26",
   "#B08585",
-  "#9C9F7F",
-  "#C6B67E",
+  "#959878",
+  "#BCAE76",
   "#A39DAC",
   "#947e8d",
-  "#9AAB90",
+  "#94A58A",
   "#c3cdc0",
 ]
 
 [colors.tab_bar]
-background = "#1C211E"
+background = "#181D1A"
 
 [colors.tab_bar.active_tab]
-bg_color = "#101310"
-fg_color = "#959C70"
+bg_color = "#0F120F"
+fg_color = "#90976B"
 intensity = "Normal"
 underline = "None"
 italic = false
 strikethrough = false
 
 [colors.tab_bar.inactive_tab]
-bg_color = "#1C211E"
+bg_color = "#181D1A"
 fg_color = "#8A928B"
 
 [colors.tab_bar.inactive_tab_hover]
-bg_color = "#212723"
+bg_color = "#1D231F"
 fg_color = "#A8AFA6"
 italic = false
 
 [colors.tab_bar.new_tab]
-bg_color = "#1C211E"
+bg_color = "#181D1A"
 fg_color = "#8A928B"
 
 [colors.tab_bar.new_tab_hover]
-bg_color = "#212723"
+bg_color = "#1D231F"
 fg_color = "#A8AFA6"
 italic = false
